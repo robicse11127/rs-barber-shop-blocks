@@ -1,2 +1,2 @@
-# rs-barber-shop-blocks
-All blocks of the RS barber Shop theme
+# wp-gutenberg-block-starter
+A boilerplate to get started with WordPress Plugin Development
